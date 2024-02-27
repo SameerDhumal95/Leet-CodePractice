@@ -1,4 +1,4 @@
-package LeetCode;
+package StrinCoding;
 
 import java.util.Scanner;
 

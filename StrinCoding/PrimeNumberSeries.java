@@ -1,4 +1,4 @@
-package LeetCode;
+package StrinCoding;
 
 public class PrimeNumberSeries {
 

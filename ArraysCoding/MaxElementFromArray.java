@@ -1,4 +1,4 @@
-package LeetCode;
+package ArraysCoding;
 
 public class MaxElementFromArray {
 
