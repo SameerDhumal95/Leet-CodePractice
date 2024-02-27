@@ -1,6 +1,6 @@
 package ArraysCoding;
 
-public class SortArray {
+public class SelectionSortArray {
 
 	public static void main(String[] args) {
 		//SELECTION SORT
