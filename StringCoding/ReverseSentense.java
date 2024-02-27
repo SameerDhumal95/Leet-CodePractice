@@ -1,4 +1,4 @@
-package StrinCoding;
+package StringCoding;
 
 public class ReverseSentense {
 
